@@ -70,7 +70,7 @@ def collect(day=None, requester=request_history, sleep=time.sleep):
     scope=str(source.get('scope','')).upper()
     ids=source.get('item_ids')
     if not re.fullmatch(r'[A-Z][A-Z0-9_-]{1,19}',scope):raise ValueError('Missing valid scope in cloud/items.json')
-    if not isinstance(ids,list) or not 1<=len(ids)<=1000:raise ValueError('cloud/items.json must contain 1..1000 item IDs.')
+    if not isinstance(ids,list) or not 1<=len(ids)<=1500:raise ValueError('cloud/items.json must contain 1..1500 item IDs.')
     ids=list(dict.fromkeys(str(v).strip() for v in ids))
     if not all(re.fullmatch(r'\d{1,15}',v) for v in ids):raise ValueError('Invalid item ID in cloud/items.json')
     day=day or (datetime.now(IST).date()-timedelta(days=1)).isoformat()
