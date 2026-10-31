@@ -1,0 +1,41 @@
+name: USKO Gunluk SELL BUY Fiyat Havuzu
+on:
+  schedule:
+    # Every night 03:07 in Turkey (UTC+3; no daylight saving time)
+    - cron: '7 0 * * *'
+  workflow_dispatch:
+    inputs:
+      day:
+        description: 'YYYY-MM-DD - blank means yesterday (Istanbul time)'
+        required: false
+        type: string
+permissions:
+  contents: write
+concurrency:
+  group: usko-daily-history
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Daily API history
+        env:
+          ENUCUZGB_API_KEY: ${{ secrets.ENUCUZGB_API_KEY }}
+          TARGET_DAY: ${{ inputs.day }}
+        run: python cloud/gece_toplayici.py "$TARGET_DAY"
+      - name: Commit successful full snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cloud/manifest.json cloud/data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Daily USKO price history"
+            git push
+          fi
