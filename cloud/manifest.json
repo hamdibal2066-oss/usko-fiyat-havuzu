@@ -1,1 +1,11 @@
-{"version":1,"files":[]}
+{
+  "version": 1,
+  "files": [
+    {
+      "day": "2026-10-31",
+      "path": "cloud/data/2026-10-31.json.gz",
+      "sha256": "c88c05e797fe126962ed2dcfba61ad661d6683394c0dd2e22ac90bbbbef79bfa",
+      "entries": 15
+    }
+  ]
+}
