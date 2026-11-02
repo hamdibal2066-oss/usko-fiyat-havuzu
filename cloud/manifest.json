@@ -6,6 +6,12 @@
       "path": "cloud/data/2026-10-31.json.gz",
       "sha256": "8d67e47dfa666a2d17faacaa08b31f93df8993ef7efc1e866f0bf1d4df60819f",
       "entries": 1442
+    },
+    {
+      "day": "2026-11-01",
+      "path": "cloud/data/2026-11-01.json.gz",
+      "sha256": "5befcb2158e0564d652b189faedcea4960051cec951e3de70e84afdbb08de275",
+      "entries": 1392
     }
   ]
 }
