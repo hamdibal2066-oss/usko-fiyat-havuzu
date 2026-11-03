@@ -1,0 +1,34 @@
+name: USKO Eksik Gunluk Fiyat Tamamlama
+on:
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: usko-daily-history
+  cancel-in-progress: false
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Collect missing API data
+        env:
+          ENUCUZGB_API_KEY: ${{ secrets.ENUCUZGB_API_KEY }}
+        run: python cloud/eksik_toplayici.py
+      - name: Save completed queue and packages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cloud/manifest.json cloud/backfill/ cloud/requests/pending.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Backfill missing USKO daily history"
+            git push
+          fi
