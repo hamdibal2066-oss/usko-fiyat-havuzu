@@ -22,8 +22,8 @@
     {
       "day": "2026-11-03",
       "path": "cloud/backfill/ZERO/2026-11-03.json.gz",
-      "sha256": "72f3a078bef4de864146a3be1220405d0e8a17cd62d236ef52725b56b771ee8e",
-      "entries": 80
+      "sha256": "f6a1d0a921f4ccbe7c9cb40bbffd73c551b9dccdec724809a7ba1c195c7626fd",
+      "entries": 192
     }
   ]
 }
