@@ -15,43 +15,13 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "1190029153",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "1340710461",
       "side": "sell",
       "day": "2026-11-03"
     },
     {
       "scope": "ZERO",
-      "item_id": "160450278",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029049",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029209",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "168610048",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029216",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -75,24 +45,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "180110252",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320110303",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "139301527",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "156210006",
       "side": "sell",
       "day": "2026-11-03"
@@ -111,12 +63,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "180110251",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "189202657",
       "side": "sell",
       "day": "2026-11-03"
@@ -129,25 +75,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310513121",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320610119",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "330920611",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547005007",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -190,12 +118,6 @@
     {
       "scope": "ZERO",
       "item_id": "597005031",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029474",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -255,12 +177,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "256002061",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "256003061",
       "side": "sell",
       "day": "2026-11-03"
@@ -279,37 +195,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310110713",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340110503",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "507002001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "810700000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "811006000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "811007000",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -327,24 +213,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "119101101",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "119102294",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "139301133",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "146210007",
       "side": "sell",
       "day": "2026-11-03"
@@ -352,18 +220,6 @@
     {
       "scope": "ZERO",
       "item_id": "156210007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "159302311",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "169302345",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -387,31 +243,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "320610125",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "700002000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "149101103",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "179101297",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "189302255",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -430,12 +262,6 @@
     {
       "scope": "ZERO",
       "item_id": "262004539",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320120135",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -489,31 +315,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310510110",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310514122",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "610017000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "146310046",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "206002007",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -597,24 +399,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "1190029639",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "136390001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "136520001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "136520004",
       "side": "sell",
       "day": "2026-11-03"
@@ -622,12 +406,6 @@
     {
       "scope": "ZERO",
       "item_id": "159302417",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "179102191",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -675,19 +453,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310512120",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "507003001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "136400002",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -699,37 +465,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "508070000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547003517",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "597002091",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800360000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "168411031",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340110613",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -742,30 +478,6 @@
     {
       "scope": "ZERO",
       "item_id": "1111110048",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320110116",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "507004006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547001516",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547002516",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -789,61 +501,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "320510118",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "330111280",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "507002006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "507003006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "507005001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547002006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547005006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587001006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587005007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029015",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -868,12 +526,6 @@
     {
       "scope": "ZERO",
       "item_id": "136610004",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320310130",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -933,37 +585,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "256002065",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587004007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "810681000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "205003008",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310310421",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340510121",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1005,18 +627,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310410107",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310511119",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "310610251",
       "side": "sell",
       "day": "2026-11-03"
@@ -1029,49 +639,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "330910140",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "379258000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587002527",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587005527",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800450000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "285005528",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340110120",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340710124",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1090,18 +658,6 @@
     {
       "scope": "ZERO",
       "item_id": "179111331",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587001507",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587002507",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1131,30 +687,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310310006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340410113",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587001007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "130650255",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "216004001",
       "side": "sell",
       "day": "2026-11-03"
@@ -1167,37 +699,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "340410109",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "610015000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "810163000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "111211031",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029174",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1221,19 +723,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310110103",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "310511131",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "330610401",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1251,43 +741,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "340410123",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "340410452",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547003516",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547004006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800230000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800260000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310515301",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1323,36 +777,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310610106",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "330150256",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340610122",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547004516",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547005516",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "155550267",
       "side": "sell",
       "day": "2026-11-03"
@@ -1366,18 +790,6 @@
     {
       "scope": "ZERO",
       "item_id": "189612421",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "216003001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "295004095",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1401,36 +813,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "507002007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "547001006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310511119",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "136330001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "136330003",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "136330004",
       "side": "sell",
       "day": "2026-11-03"
@@ -1444,12 +826,6 @@
     {
       "scope": "ZERO",
       "item_id": "136570004",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "244002518",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1479,12 +855,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "170210255",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "310110611",
       "side": "sell",
       "day": "2026-11-03"
@@ -1497,19 +867,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "320510132",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "320510471",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310610106",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1533,60 +891,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "547003006",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587004507",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587005507",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "810600000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800170000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800180000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029098",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029254",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029539",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "146311031",
       "side": "sell",
       "day": "2026-11-03"
@@ -1605,49 +909,13 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "567003007",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "126410007",
       "side": "sell",
       "day": "2026-11-03"
     },
     {
       "scope": "ZERO",
-      "item_id": "1340410123",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320110117",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "320610128",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "199311271",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1399311160",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "189311332",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1671,43 +939,13 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "310110573",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "199111241",
       "side": "sell",
       "day": "2026-11-03"
     },
     {
       "scope": "ZERO",
-      "item_id": "310110663",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "310610271",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "340510423",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587003527",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1725,30 +963,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "190250253",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "597004091",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310510104",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310514122",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "170211271",
       "side": "sell",
       "day": "2026-11-03"
@@ -1756,12 +970,6 @@
     {
       "scope": "ZERO",
       "item_id": "295001035",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "295002035",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1798,18 +1006,6 @@
     {
       "scope": "ZERO",
       "item_id": "119111121",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310310008",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1340610106",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1857,18 +1053,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "1190029333",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1340410113",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "169111151",
       "side": "sell",
       "day": "2026-11-03"
@@ -1894,42 +1078,6 @@
     {
       "scope": "ZERO",
       "item_id": "320610431",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "508112000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "508116000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800270000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "800440000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029328",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "141110048",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -1965,19 +1113,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "295005095",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "507001001",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "119101203",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -2001,31 +1137,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "169301134",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "255002065",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "255003065",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1190029674",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310410109",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -2037,61 +1149,7 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "1399312170",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "255001065",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310310005",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587001506",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310310005",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1310410107",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1320310800",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1320610820",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1340410115",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "1340710108",
       "side": "sell",
       "day": "2026-11-03"
     },
@@ -2115,12 +1173,6 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "899997000",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "310110221",
       "side": "sell",
       "day": "2026-11-03"
@@ -2139,27 +1191,729 @@
     },
     {
       "scope": "ZERO",
-      "item_id": "577003121",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "587003507",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
       "item_id": "111110007",
       "side": "sell",
       "day": "2026-11-03"
     },
     {
       "scope": "ZERO",
-      "item_id": "577002121",
+      "item_id": "159311091",
       "side": "sell",
       "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "181210047",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "557005061",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "131211031",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "281001019",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "190611181",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "129101217",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156211033",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "169101236",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "244003519",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136340002",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136520002",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136580002",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168610007",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330110663",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168311035",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "262002539",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340110712",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "141110047",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "320310362",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "126410047",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199301577",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340610412",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "126611031",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189603567",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340110663",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340510402",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310110502",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330940631",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136211031",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189611391",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1310310411",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189302636",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310410262",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1310310431",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1310610271",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "145910207",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111110006",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156210047",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "181211033",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "159312121",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168410007",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "125310050",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "320310451",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "131010216",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "159302416",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "139301526",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340610151",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146210047",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "169111156",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136330006",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111111035",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330110503",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "136310007",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189201267",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199111247",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156210008",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "137600031",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310511132",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340410451",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168411033",
+      "side": "sell",
+      "day": "2026-11-03"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330910601",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156211037",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "206005018",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146311035",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340110313",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330610402",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146310048",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "190251091",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199311275",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1113314607",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330111441",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168611035",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189211301",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146310046",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "262002509",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "129111091",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1111310047",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "285004528",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310610271",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111111037",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "141110047",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "126410047",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199111247",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168411033",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330910601",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156211037",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146311035",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340110313",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330610402",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146310048",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199311275",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340510421",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "244003519",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "126410047",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "131010216",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340610151",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "169111156",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199111247",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156210008",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310511132",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168411033",
+      "side": "sell",
+      "day": "2026-11-01"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330910601",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330410422",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156211037",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "310610211",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146311035",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "340110313",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "330610402",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "146310048",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "199311275",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1113314607",
+      "side": "sell",
+      "day": "2026-10-31"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111111041",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "1111310048",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111210048",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "111211035",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "149101226",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "156211035",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "168410048",
+      "side": "sell",
+      "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "189202658",
+      "side": "sell",
+      "day": "2026-10-30"
     }
   ]
 }
