@@ -2,10 +2,16 @@
   "version": 1,
   "files": [
     {
+      "day": "2026-10-29",
+      "path": "cloud/backfill/ZERO/2026-10-29.json.gz",
+      "sha256": "c2e79e66cb07a0bd90d9e3f3acfaae72d90ee0d54d70fa48f75c629b94c07df6",
+      "entries": 39
+    },
+    {
       "day": "2026-10-30",
       "path": "cloud/backfill/ZERO/2026-10-30.json.gz",
-      "sha256": "e8f23ba1526f57bd9ca9fd82c22de82edf10ef6f590638858a8f4de653710edc",
-      "entries": 308
+      "sha256": "eceaa0220689e23e370bf0a4a00e3f7f992bacc59eddea036bd654f417aeee4e",
+      "entries": 396
     },
     {
       "day": "2026-10-31",
