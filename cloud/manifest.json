@@ -58,8 +58,14 @@
     {
       "day": "2026-11-03",
       "path": "cloud/backfill/ZERO/2026-11-03.json.gz",
-      "sha256": "8e805b23bbea7ec1a604641c102fc51c7f326a1fee104553732a3f21660e344f",
-      "entries": 476
+      "sha256": "90ac5e6e9d6c6b7bc0dedea3842b982dbbdbdbc5a909ffa4def0996abca070ce",
+      "entries": 477
+    },
+    {
+      "day": "2026-11-04",
+      "path": "cloud/backfill/ZERO/2026-11-04.json.gz",
+      "sha256": "2d6bfa95ca2e6db18006a72e6d685392e9bb126bef39883076b9c62e3aed909d",
+      "entries": 5
     },
     {
       "day": "2026-11-04",
