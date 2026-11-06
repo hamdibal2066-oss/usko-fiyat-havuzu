@@ -16,8 +16,8 @@
     {
       "day": "2026-10-30",
       "path": "cloud/backfill/ZERO/2026-10-30.json.gz",
-      "sha256": "7f4d89edfc057046657c52704d78f82a6b747da5574f61d632119a9a1c24c208",
-      "entries": 435
+      "sha256": "86ecf4148936310d13a5ee7fcc0b685125ec1f0213a85cc06f34355d13a7be52",
+      "entries": 438
     },
     {
       "day": "2026-10-31",
@@ -46,7 +46,7 @@
     {
       "day": "2026-11-02",
       "path": "cloud/backfill/ZERO/2026-11-02.json.gz",
-      "sha256": "0a7f110f7ca861e570a02aadbf1c3af0d73be415795ccd31ef0cf805f392f499",
+      "sha256": "c0bf865dbea4604f143d14c56f99748c4051b76e5cd2f478366785763af2ee29",
       "entries": 10
     },
     {
@@ -58,13 +58,13 @@
     {
       "day": "2026-11-03",
       "path": "cloud/backfill/ZERO/2026-11-03.json.gz",
-      "sha256": "ec53b2000b62dde67c3c3bf3fa8b8f6d3ad36e73e44b4a3a97b8c7b055afd120",
-      "entries": 503
+      "sha256": "7f8a3dce255e28765cc99c7230c25e51673732f8bed734c7798c11fbdadc2cfd",
+      "entries": 509
     },
     {
       "day": "2026-11-04",
       "path": "cloud/backfill/ZERO/2026-11-04.json.gz",
-      "sha256": "94e4985ac5308690af653a4f5dc1c438be2cb81e87860eb3e574649aec9de4eb",
+      "sha256": "e1d3745645f3ec57bb7a7ab772e2259da6eb587c4be325ceb70745742aa68082",
       "entries": 7
     },
     {
@@ -76,7 +76,7 @@
     {
       "day": "2026-11-05",
       "path": "cloud/backfill/ZERO/2026-11-05.json.gz",
-      "sha256": "b0799f5f00b27d464fe9feb03a8c3f4f4d151be349168f68b5b920e7ee8df820",
+      "sha256": "8a874d7de2885009de8be48e13e128e4851dd678cd7a28c49013dfe582fd7d95",
       "entries": 0
     },
     {
