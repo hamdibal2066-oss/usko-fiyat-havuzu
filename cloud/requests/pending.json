@@ -1,35 +1,4 @@
 {
   "version": 1,
-  "requests": [
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-11-05"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-11-04"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-11-03"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-11-02"
-    },
-    {
-      "scope": "ZERO",
-      "item_id": "310410261",
-      "side": "sell",
-      "day": "2026-10-30"
-    }
-  ]
+  "requests": []
 }
