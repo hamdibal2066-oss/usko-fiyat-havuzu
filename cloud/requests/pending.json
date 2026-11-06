@@ -588,6 +588,24 @@
       "item_id": "507004016",
       "side": "sell",
       "day": "2026-10-30"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "244005519",
+      "side": "sell",
+      "day": "2026-11-05"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "244005519",
+      "side": "sell",
+      "day": "2026-11-02"
+    },
+    {
+      "scope": "ZERO",
+      "item_id": "244005519",
+      "side": "sell",
+      "day": "2026-10-30"
     }
   ]
 }
