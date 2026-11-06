@@ -78,6 +78,12 @@
       "path": "cloud/backfill/ZERO/2026-11-05.json.gz",
       "sha256": "e4abd7f9faa66238641869d5c768b045dbde8ae8603cf60c88580928d96374ac",
       "entries": 0
+    },
+    {
+      "day": "2026-11-05",
+      "path": "cloud/data/2026-11-05.json.gz",
+      "sha256": "48c5eb9b29e5c6303928cf19d8d538a4d1a9b96a372ed11b8a4185d652cc7293",
+      "entries": 25
     }
   ]
 }
