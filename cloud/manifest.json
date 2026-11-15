@@ -138,6 +138,12 @@
       "path": "cloud/data/2026-11-13.json.gz",
       "sha256": "e3f7d778dd1124f5a42088030ee496f1f3ee9480279ef50ba3d77380b4997233",
       "entries": 0
+    },
+    {
+      "day": "2026-11-14",
+      "path": "cloud/data/2026-11-14.json.gz",
+      "sha256": "f5a5d24037d36ca25b2a4751c953cfb7ae381b2e67f910a23dbfefe0839ddb2c",
+      "entries": 0
     }
   ]
 }
