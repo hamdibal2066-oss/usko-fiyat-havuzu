@@ -204,6 +204,12 @@
       "path": "cloud/data/2026-11-24.json.gz",
       "sha256": "10569daa2d30325fdc84c486af29db920569dcc25dc66c82c35e93bf912ada4b",
       "entries": 816
+    },
+    {
+      "day": "2026-11-25",
+      "path": "cloud/data/2026-11-25.json.gz",
+      "sha256": "e3742edc3f096b7be3f122e340d331f3ddeea7d6b914a5ebbf98600d18e723ec",
+      "entries": 774
     }
   ]
 }
